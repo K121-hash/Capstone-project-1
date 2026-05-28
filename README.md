@@ -260,20 +260,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm
 4. **Fraud Detection**: Identify unusual premium patterns
 5. **Competitive Pricing**: Set competitive rates based on customer profiles
 
-## Next Steps
-
-1. ✅ Complete EDA and data understanding (Current Phase)
-2. ⬜ Implement missing value handling strategies
-3. ⬜ Create and engineer features
-4. ⬜ Train and evaluate baseline models
-5. ⬜ Hyperparameter tuning for top models
-6. ⬜ Final model selection and deployment preparation
-7. ⬜ Generate predictions and business recommendations
-
 ## Contributors
-- **Project Developer**: K121-hash
-- **Project Type**: Capstone Project
-- **Status**: In Progress
+- **Project Developer**: Kyauta Ayuba Dabu
+-**Phone number**:08123094279
+- **Project Type**: Capstone Project 1 
 
 ## License
 This project is for educational purposes as part of a capstone assignment.
@@ -281,7 +271,4 @@ This project is for educational purposes as part of a capstone assignment.
 ## Contact & Support
 For questions or issues regarding this project, please refer to the GitHub repository issues section.
 
----
 
-**Last Updated**: May 28, 2026
-**Project Phase**: Exploratory Data Analysis (EDA) Complete
